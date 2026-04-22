@@ -2,10 +2,10 @@
 
 import * as React from "react"
 
-import { NavMain } from "../../components/data/nav-main"
-import { NavProjects } from "../../components/data/nav-projects"
-import { NavSecondary } from "../../components/data/nav-secondary"
-import { NavUser } from "../../components/data/nav-user"
+import { NavMain } from "@/components/data/nav-main"
+import { NavProjects } from "@/components/data/nav-projects"
+import { NavSecondary } from "@/components/data/nav-secondary"
+import { NavUser } from "@/components/data/nav-user"
 import {
   Sidebar,
   SidebarContent,
@@ -14,7 +14,7 @@ import {
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
-} from "../../components/data/ui/sidebar"
+} from "@/components/data/ui/sidebar"
 import { TerminalSquareIcon, BotIcon, BookOpenIcon, Settings2Icon, LifeBuoyIcon, SendIcon, FrameIcon, PieChartIcon, MapIcon, TerminalIcon, CoinsIcon, Asterisk, PercentSquare, Calendar1 } from "lucide-react"
 
 
