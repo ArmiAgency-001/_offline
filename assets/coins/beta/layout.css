@@ -1,0 +1,6 @@
+.BTLayout {
+  background: linear-gradient(90deg, #ff7e5f, #feb47b);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
