@@ -1,6 +1,6 @@
-import { ArmiCoinSidebar } from "@/components/data/assets/coins/armi/ui/app-sidebar"
-import { SiteHeader } from "@/components/data/assets/coins/armi/ui/site-header"
-import { SidebarInset, SidebarProvider } from "@/components/data/ui/sidebar"
+import { ArmiCoinSidebar } from "../../../../../components/data/assets/coins/armi/ui/app-sidebar"
+import { SiteHeader } from "../../../../../components/data/assets/coins/armi/ui/site-header"
+import { SidebarInset, SidebarProvider } from "../../../../../components/data/ui/sidebar"
 
 export const iframeHeight = "800px"
 
