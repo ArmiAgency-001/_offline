@@ -9,8 +9,8 @@ import {
   BreadcrumbPage,
   BreadcrumbSeparator,
 } from "@/components/data/ui/breadcrumb"
-import { Button } from "@/components/ui/button"
-import { Separator } from "@/components/ui/separator"
+import { Button } from "@/components/data/ui/button"
+import { Separator } from "@/components/data/ui/separator"
 import { useSidebar } from "@/components/data/ui/sidebar"
 import { PanelLeftIcon } from "lucide-react"
 
