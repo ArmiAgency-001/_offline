@@ -1,6 +1,6 @@
 "use client"
 
-import { Label } from "@/components/ui/label"
+import { Label } from "@/components/data/ui/label"
 import { SidebarInput } from "@/components/data/ui/sidebar"
 import { SearchIcon } from "lucide-react"
 
