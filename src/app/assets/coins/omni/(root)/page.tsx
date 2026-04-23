@@ -1,6 +1,6 @@
-import HiltDashboard from "../dashboard/page";
+import OmniDashboard from "../dashboard/page";
 
-export default function HiltPage() {
+export default function OmniPage() {
   return (
     <main>
         <HiltDashboard />
