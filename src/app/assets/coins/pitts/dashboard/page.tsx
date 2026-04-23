@@ -1,6 +1,6 @@
-import { AppSidebar } from "@/components/hilt/ui/app-sidebar"
-import { SiteHeader } from "@/components/hilt/ui/site-header"
-import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar"
+import { AppSidebar } from "@/components/data/assets/coins/pitt/ui/app-sidebar"
+import { SiteHeader } from "@/components/data/assets/coins/pitt/ui/site-header"
+import { SidebarInset, SidebarProvider } from "@/components/data/ui/sidebar"
 
 export const iframeHeight = "800px"
 
