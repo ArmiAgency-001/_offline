@@ -2,9 +2,9 @@
 
 import * as React from "react"
 
-import { NavMain } from "@/components/data/assets/coins/beta/ui/nav-main"
-import { NavProjects } from "@/components/data/assets/coins/beta/ui/nav-projects"
-import { NavSecondary } from "@/components/data/assets/coins/beta/ui/nav-secondary"
+import { NavMain } from "@/components/data/assets/coins/pitt/ui/nav-main"
+import { NavProjects } from "@/components/data/assets/coins/pitt/ui/nav-projects"
+import { NavSecondary } from "@/components/data/assets/coins/pitt/ui/nav-secondary"
 import { NavUser } from "@/components/data/nav-user"
 import {
   Sidebar,
